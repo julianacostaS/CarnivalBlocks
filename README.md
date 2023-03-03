@@ -8,7 +8,11 @@ A fully responsive webpage where users can search for carnival blocks in 2023. J
  
 [🔗 Click here to access it](https://julianacostas.github.io/CarnivalBlocks/)
 
+<br>
+
 ![preview](https://user-images.githubusercontent.com/49543157/222627393-0f78b409-f4b1-427a-ab7c-e7d9d9afb224.gif)
+
+<br>
 
 <p align="center">
   <img alt="carnival Blocks Webpage Preview" src="https://user-images.githubusercontent.com/49543157/222627958-bb544212-9b4c-4539-8099-680206c35027.png" width="100%"> 
