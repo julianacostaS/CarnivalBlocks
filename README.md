@@ -2,7 +2,7 @@
  <h1 align="center"> Webpage to find the best carnival blocks. </h1>
 
 <p align="center">
-Webpage where users can search the carnival blocks for 2023. Just type a name in the search bar and the filter will bring all the blocks that contains the specified input. <br/>
+A fully responsive webpage where users can search for carnival blocks in 2023. Just type a name in the search bar and the filter will bring all the blocks that contains the specified input. <br/>
 </p>
 
  
