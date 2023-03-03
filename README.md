@@ -2,11 +2,11 @@
  <h1 align="center"> Webpage to find the best carnival blocks. </h1>
 
 <p align="center">
-A fully responsive webpage where users can search for carnival blocks in 2023. Just type a name in the search bar and the filter will bring all the blocks that contains the specified input. <br/>
+A fully responsive webpage where users can search for carnival blocks in 2023. Just type a name in the search bar and the filter will bring all the blocks that contains the specified input. Among others I used new CSS property such as :has, CSS animations and @media queries. <br/>
 </p>
 
  
-[🔗 Click here to access it]()
+[🔗 Click here to access it](https://julianacostas.github.io/CarnivalBlocks/)
 
 ![preview](https://user-images.githubusercontent.com/49543157/222627393-0f78b409-f4b1-427a-ab7c-e7d9d9afb224.gif)
 
@@ -20,7 +20,7 @@ A fully responsive webpage where users can search for carnival blocks in 2023. J
 This project was developed using the following technologies:
 
 - HTML
-- CSS
+- CSS 
 - Javascript
 - GIT & Github
 - Figma
