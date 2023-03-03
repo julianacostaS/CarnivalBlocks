@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet" />
+
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Find your carnival block</title>
+    <link rel="stylesheet" href="./style.css" />
+    <script src="https://unpkg.com/phosphor-icons"></script>
+</head>
+
+<body>
+    <header>
+        <div class="content">
+            <div class="top">
+                <p>Find your block</p>
+                <h1>Find the <span>best blocks</span> of carnival in 2023
+                </h1>
+            </div>
+
+            <form class="search">
+                <div class="search-field">
+                    <label class="sr-only" for="name">Search by name</label>
+                    <i class="ph-magnifying-glass-light"></i>
+                    <input type="text" id="name" name="name" placeholder="Search by name" />
+                </div>
+                <div class="search-field select">
+                    <label class="sr-only" for="city">Select a city</label>
+                    <i class="ph-map-pin-light"></i>
+                    <select name="city" id="city">
+                            <option value="0" selected>Select a city</option>
+                            <option value="salvador">Salvador</option>
+                            <option value="rio-de-janeiro">Rio de Janeiro</option>
+                            <option value="sao-paulo">São Paulo</option>
+                            <option value="salvador">Florianópolis</option>
+                            <option value="salvador">Aracaju</option>
+                            <option value="salvador">João Pessoa</option>
+                            <option value="salvador">Flortaleza</option>
+                            <option value="salvador">Maceió</option>
+                            <option value="salvador">Belo Horizonte</option>
+                        </select>
+                    <i class="ph-caret-down-light"></i>
+                </div>
+                <button class="btn primary">Search Now</button>
+            </form>
+        </div>
+    </header>
+
+    <main>
+        <div class="content">
+            <section class="top">
+                <h2>Recommended blocks</h2>
+                <div class="view">
+                    <button class="btn primary">List</button>
+                    <button class="btn secondary">Map</button>
+                </div>
+            </section>
+            <section class="cards">
+                <div class="card">
+                    <img src="./assets/block1.jpeg" alt="man wearing a black
+                            hat surrounded by people." />
+
+                    <div class="content">
+                        <h3>HTML - The structure of the webpages</h3>
+                        <p>
+                            <strong>HTML </strong> (HyperText Markup Language) is the skeleton of all modern web pages. Together with CSS and JavaScript, it forms the foundation of modern web development.
+                        </p>
+
+                        <div class="location-rate">
+                            <div class="location">
+                                <i class="ph-map-pin-light"></i> Salvador - BA
+                            </div>
+                            <div class="star">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="./assets/block2.jpeg" alt="party items on the
+                            ground" />
+
+                    <div class="content">
+                        <h3>CSS - The beauty of the webpages</h3>
+                        <p>
+                            <strong>CSS</strong> (Cascading Style Sheet) is used to define styles for web pages, including the layout, font, color, and other design elements.
+                        </p>
+                        <div class="location-rate">
+                            <div class="location">
+                                <i class="ph-map-pin-light"></i> Rio de Janeiro - RJ
+                            </div>
+                            <div class="star">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="./assets/block3.jpeg" alt="many people wearing
+                            carnival clothes" />
+
+                    <div class="content">
+                        <h3>JavaScript - The brain of the webpages</h3>
+                        <p>
+                            <strong>JavaScript </strong> is a popular programming language used to create interactive and dynamic websites, as well as web-based applications.
+                        </p>
+
+                        <div class="location-rate">
+                            <div class="location">
+                                <i class="ph-map-pin-light"></i> São Paulo - SP
+                            </div>
+                            <div class="star">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="./assets/block4.jpeg" alt="many people
+                            enjoying a party" />
+
+                    <div class="content">
+                        <h3>Git & Github - Most popular version control combo
+                        </h3>
+                        <p>
+                            <strong> Git </strong>is a version control system that allows developers to manage and track changes to their code over time.
+                            <strong>GitHub</strong>, on the other hand, is a web-based hosting service that uses Git as its version control system.
+                        </p>
+
+                        <div class="location-rate">
+                            <div class="location">
+                                <i class="ph-map-pin-light"></i> Florianópolis - SC
+                            </div>
+                            <div class="star">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_empty.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_empty.svg" alt="star
+                                        rate icon">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="./assets/block5.jpeg" alt="a man wearing an
+                            indigenous clothes pointing to the image" />
+
+                    <div class="content">
+                        <h3>Bootstrap - Most popular CSS framework</h3>
+                        <p>
+                            <strong>Bootstrap</strong> is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and JavaScript-based design templates for typography, forms, buttons,
+                            navigation, and other interface components.
+                        </p>
+
+                        <div class="location-rate">
+                            <div class="location">
+                                <i class="ph-map-pin-light"></i> Aracaju - SE
+                            </div>
+                            <div class="star">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_empty.svg" alt="star
+                                        rate icon">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="./assets/block6.jpeg" alt="women dancing on
+                            the street" />
+
+                    <div class="content">
+                        <h3>React.js - A JavaScript library</h3>
+                        <p>
+                            <strong>React.js</strong> framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly
+                            less code than you would with vanilla JavaScript
+                        </p>
+
+                        <div class="location-rate">
+                            <div class="location">
+                                <i class="ph-map-pin-light"></i> João Pessoa - PB
+                            </div>
+                            <div class="star">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_empty.svg" alt="star
+                                        rate icon">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="./assets/block7.jpeg" alt="woman smiling and
+                            with face painted" />
+
+                    <div class="content">
+                        <h3>API - Application Programming Interface</h3>
+                        <p>
+                            <strong>API</strong> is a set of defined rules that explain how computers or applications communicate with one another. APIs sit between an application and the web server, acting as an intermediary layer that processes data
+                            transfer between systems.
+                        </p>
+
+                        <div class="location-rate">
+                            <div class="location">
+                                <i class="ph-map-pin-light"></i> Fortaleza - CE
+                            </div>
+                            <div class="star">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_empty.svg" alt="star
+                                        rate icon">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="./assets/block8.jpeg" alt="man playing a music
+                            instrument surrounded by people" />
+
+                    <div class="content">
+                        <h3>DOM - Document Object Model</h3>
+                        <p>
+                            <strong>DOM</strong> is a programming interface that allows developers to create, change, or remove elements from a website document. DOM manipulation is when you use JavaScript to add, remove, and modify elements of a website.
+                            It is very common in web development.
+                        </p>
+
+                        <div class="location-rate">
+                            <div class="location">
+                                <i class="ph-map-pin-light"></i> Maceió - AL
+                            </div>
+                            <div class="star">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_empty.svg" alt="star
+                                        rate icon">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="./assets/block9.jpeg" alt="women dancing on
+                            the street" />
+
+                    <div class="content">
+                        <h3>Cypress - front-end testing tool</h3>
+                        <p>
+                            <strong>Cypress</strong> aims to address the pain points developers or QA engineers face while testing an application. Cypress is a more developer-friendly tool that uses a unique DOM manipulation technique and operates directly
+                            in the browser.
+                        </p>
+
+                        <div class="location-rate">
+                            <div class="location">
+                                <i class="ph-map-pin-light"></i> Belo Horizonte - MG
+                            </div>
+                            <div class="star">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_bold.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_empty.svg" alt="">
+                                <img src="/assets/star_empty.svg" alt="star
+                                        rate icon">
+                                <img src="/assets/star_empty.svg" alt="star
+                                        rate icon">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer></footer>
+    <script src="./main.js"></script>
+</body>
+
+</html>
