@@ -20,7 +20,7 @@ A fully responsive webpage where users can search for carnival blocks in 2023. J
 <br>
 
 <p align="center">
-  <img alt="carnival Blocks Webpage Preview" src="https://user-images.githubusercontent.com/49543157/222629821-7071d15a-f34c-41e3-ac29-98e14406f34c.png" width="100%"> 
+  <img alt="carnival Blocks Webpage Preview" src="https://user-images.githubusercontent.com/49543157/222629976-a96ee083-7e81-4cde-b483-c2b319db8960.png" width="100%"> 
 </p>
 
 
