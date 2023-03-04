@@ -1,8 +1,8 @@
 
- <h1 align="center"> Webpage to find the best carnival blocks. </h1>
+ <h1 align="center"> Webpage to find the best spots to enjoy Carnival in Brazil. </h1>
 
 <p align="center">
-A fully responsive webpage where users can search for carnival blocks in 2023. Just type a name in the search bar and the filter will bring all the blocks that contains the specified input. Among others I used new CSS property such as :has, CSS animations and @media queries. <br/>
+A fully responsive webpage where users can search for carnival "blocos" (Portuguese for celebration site) in 2023. Just type a name in the search bar and the filter will bring all the "blocos" that contains the specified input. Among others, I used new CSS property such as :has, CSS animations and @media queries. <br/>
 </p>
 
  
