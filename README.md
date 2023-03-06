@@ -9,18 +9,17 @@ A fully responsive webpage where users can search for carnival "blocos" (Portugu
 [🔗 Click here to access it](https://julianacostas.github.io/CarnivalBlocks/)
 
 <br>
-
-![preview](https://user-images.githubusercontent.com/49543157/222627393-0f78b409-f4b1-427a-ab7c-e7d9d9afb224.gif)
-
-<br>
-
-<p align="center">
-  <img alt="carnival Blocks Webpage Preview" src="https://user-images.githubusercontent.com/49543157/222627958-bb544212-9b4c-4539-8099-680206c35027.png" width="100%"> 
+![preview](https://user-images.githubusercontent.com/49543157/223032514-abf3f66d-78c4-4813-bda8-9cf695a58ed1.gif)
 
 <br>
 
 <p align="center">
-  <img alt="carnival Blocks Webpage Preview" src="https://user-images.githubusercontent.com/49543157/222629976-a96ee083-7e81-4cde-b483-c2b319db8960.png" width="100%"> 
+  <img alt="carnival Blocks Webpage Preview" src="https://user-images.githubusercontent.com/49543157/223030846-0248483c-8e71-46a9-ab39-9eec2d199ddd.png" width="100%"> 
+
+<br>
+
+<p align="center">
+  <img alt="carnival Blocks Webpage Preview" src="https://user-images.githubusercontent.com/49543157/223030908-70ddca85-d698-42e5-94ff-1c48df81e3a8.png" width="100%"> 
 </p>
 
 
